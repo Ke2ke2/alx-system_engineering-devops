@@ -1,1 +1,1 @@
-My first readme
+This repository contains solutions ti shell tasks
