@@ -1,1 +1,1 @@
-This repository contains solutions ti shell tasks
+This repository containssolutions to shell assignments
