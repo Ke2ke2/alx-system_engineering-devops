@@ -1,1 +1,1 @@
-a csript that adds different execution permissions
+a script that sets the mode of the file hello to date
